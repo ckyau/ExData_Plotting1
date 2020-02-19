@@ -1,0 +1,6 @@
+*.Rhistory
+*.Rdata
+*.txt
+
+.Rprog.user
+.Rproj.user
